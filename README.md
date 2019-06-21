@@ -1631,10 +1631,6 @@ std::prev_permutation(s.begin(), s.end());
 
 * Pay careful attention to the ordering of the parameters, some are not intuitive. (Ex. `nth_element`)
 
-### See a problem? 
-
-Let me know. You can contact me through the [contact form](https://www.srcmake.com/contact.html) on my website, through the [social media](https://www.srcmake.com/) listed on my website, or by making a github issue/pull request.
-
 ### References
 
 * [cplusplus.com's list of STL algorithms.](http://www.cplusplus.com/reference/algorithm/)
