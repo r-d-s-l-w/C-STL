@@ -1,52 +1,8 @@
-# C++ STL
-
-https://youtu.be/9XGqSDjaW24 <- it's based on this
+# C++ STL ALGORITHMS
 
 http://cpp0x.pl/kursy/Kurs-C++/Poziom-5/Wyrazenia-lambda-C++11/591  <- read this
 
 ---
-
-## Base Code and C++ version
-
-For the sake of testing this code, we'll specify a very basic C++ file that our code would run in. Note that we include `vector`, because that's the container the examples will use, we're including `iostream` for `cout`, and we including `algorithm` for the actual STL algorithms.
-
-#### main.cpp
-
-```
-#include <iostream>
-#include <vector>
-#include <algorithm> 
-
-int main()
-	{
-	// INSERT STD:ALGORITHM EXAMPLE CODE HERE
-	
-	return 0;
-	}
-```
-
-We'll use a simple makefile to compile and run, specifying C++11.
-
-#### makefile
-
-```
-all:
-	g++ main.cpp -std=c++11 -o run
-	./run
-```
-
-And so to actually run this code, in a UNIX operating system, in the terminal, simply type `make` in the directory where your makefile and main.cpp are.
-
----
----
----
-
-# Figure Something Out About Data
-
-Need to do something with the data in your container? Look here.
-
----
-
 
 ### all_of
 
