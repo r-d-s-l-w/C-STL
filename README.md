@@ -1,10 +1,7 @@
 # C++ STL
 
-https://youtu.be/9XGqSDjaW24
-
-To truly understand how to use the STL algorithms, you should know how STL `pair`s, lambda expressions, and iterators work. 
-
-https://www.srcmake.com/home/cpp-stl-algorithms  <- read this
+https://youtu.be/9XGqSDjaW24 <- it's based on this
+http://cpp0x.pl/kursy/Kurs-C++/Poziom-5/Wyrazenia-lambda-C++11/591  <- read this
 
 ---
 
