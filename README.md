@@ -1,6 +1,7 @@
 # C++ STL
 
 https://youtu.be/9XGqSDjaW24 <- it's based on this
+
 http://cpp0x.pl/kursy/Kurs-C++/Poziom-5/Wyrazenia-lambda-C++11/591  <- read this
 
 ---
